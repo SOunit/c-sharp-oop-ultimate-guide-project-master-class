@@ -1,0 +1,3 @@
+- object is created using `class`, stored in `heap`
+- for each application execution, a new heap will be created / and only one
+- `reference variable` are stored in `stack`
