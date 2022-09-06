@@ -1,0 +1,5 @@
+- properties is recommended in real-time project
+  - field is private, properties is open
+  - `auto-implemented properties` for no logic properties
+- properties doesn't occupy any memory(will not be stored)
+- properties are outer layer for fields, to protect fields
