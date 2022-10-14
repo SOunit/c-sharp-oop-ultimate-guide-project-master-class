@@ -6,7 +6,7 @@
   - collection
   - string = group of characters
 
-- IEnumerable
+- `IEnumerable` Hierarchy
 
   - ICollection
     - IList
@@ -18,6 +18,8 @@
   - Stack
   - Queue
 
+- has `getEnumerator`
+
 - good for flexibility
   ```
   // can replace with Que, Stack, etc.
@@ -25,3 +27,10 @@
   ```
 
 # IEnumerator
+
+- to read through `IEnumerable`
+
+- forEach
+  - `current`
+  - `MoveNext`
+  - `Reset`
