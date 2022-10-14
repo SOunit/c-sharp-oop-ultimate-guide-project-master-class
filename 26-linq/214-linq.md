@@ -1,5 +1,13 @@
 # LINQ
 
+- offer unified access syntax to resources
+
+  - sql database
+  - collection of objects
+  - Entity framework DbSet
+  - ADO.NET DataSet
+  - XML File
+
 - Language Integrated Query
 
 - target
